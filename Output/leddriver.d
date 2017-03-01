@@ -1,0 +1,11 @@
+..\output\leddriver.o: leddriver.c
+..\output\leddriver.o: leddriver.h
+..\output\leddriver.o: ..\CMSIS\stm32f10x.h
+..\output\leddriver.o: ..\CMSIS\core_cm3.h
+..\output\leddriver.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\leddriver.o: ..\CMSIS\system_stm32f10x.h
+..\output\leddriver.o: ..\USER\stm32f10x_conf.h
+..\output\leddriver.o: ..\FWlib\inc\stm32f10x_gpio.h
+..\output\leddriver.o: ..\CMSIS\stm32f10x.h
+..\output\leddriver.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\output\leddriver.o: ..\FWlib\inc\misc.h

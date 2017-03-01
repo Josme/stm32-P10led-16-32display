@@ -1,0 +1,12 @@
+..\output\ledshow.o: ledshow.c
+..\output\ledshow.o: leddriver.h
+..\output\ledshow.o: ..\CMSIS\stm32f10x.h
+..\output\ledshow.o: ..\CMSIS\core_cm3.h
+..\output\ledshow.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\ledshow.o: ..\CMSIS\system_stm32f10x.h
+..\output\ledshow.o: ..\USER\stm32f10x_conf.h
+..\output\ledshow.o: ..\FWlib\inc\stm32f10x_gpio.h
+..\output\ledshow.o: ..\CMSIS\stm32f10x.h
+..\output\ledshow.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\output\ledshow.o: ..\FWlib\inc\misc.h
+..\output\ledshow.o: ledshow.h
